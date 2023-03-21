@@ -1,0 +1,150 @@
+Pump number              :-- 1  Customer:- 1
+Customer First Name      :-  Empty
+Customer Last Name       :-  Empty
+Customer's Vehicle Number:-  Empty
+Customer's No of Liters  :-  0
+Pump number              :-- 1  Customer:- 2
+Customer First Name      :-  IUGIU
+Customer Last Name       :-  UGI
+Customer's Vehicle Number:-  2
+Customer's No of Liters  :-  200
+Pump number              :-- 1  Customer:- 3
+Customer First Name      :-  FIU
+Customer Last Name       :-  GIU
+Customer's Vehicle Number:-  YFYU
+Customer's No of Liters  :-  200
+Pump number              :-- 1  Customer:- 4
+Customer First Name      :-  YGIGIU
+Customer Last Name       :-  UGIU
+Customer's Vehicle Number:-  2
+Customer's No of Liters  :-  200
+Pump number              :-- 1  Customer:- 5
+Customer First Name      :-  REG
+Customer Last Name       :-  REG
+Customer's Vehicle Number:-  2
+Customer's No of Liters  :-  200
+Pump number              :-- 1  Customer:- 6
+Customer First Name      :-  ERG
+Customer Last Name       :-  REG
+Customer's Vehicle Number:-  ERG
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 1
+Customer First Name      :-  GIUIU
+Customer Last Name       :-  YGI
+Customer's Vehicle Number:-  2
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 2
+Customer First Name      :-  FIG
+Customer Last Name       :-  KUGIU
+Customer's Vehicle Number:-  HH
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 3
+Customer First Name      :-  UGIU
+Customer Last Name       :-  GIGI
+Customer's Vehicle Number:-  YGI
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 4
+Customer First Name      :-  ERG
+Customer Last Name       :-  ERG
+Customer's Vehicle Number:-  2
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 5
+Customer First Name      :-  RWG
+Customer Last Name       :-  RWG
+Customer's Vehicle Number:-  RG
+Customer's No of Liters  :-  200
+Pump number              :-- 2  Customer:- 6
+Customer First Name      :-  WER
+Customer Last Name       :-  EF
+Customer's Vehicle Number:-  GR
+Customer's No of Liters  :-  200
+Pump number              :-- 3  Customer:- 1
+Customer First Name      :-  RG
+Customer Last Name       :-  REG
+Customer's Vehicle Number:-  ER
+Customer's No of Liters  :-  200
+Pump number              :-- 3  Customer:- 2
+Customer First Name      :-  R
+Customer Last Name       :-  WRW
+Customer's Vehicle Number:-  RG
+Customer's No of Liters  :-  200
+Pump number              :-- 3  Customer:- 3
+Customer First Name      :-  ER
+Customer Last Name       :-  EF
+Customer's Vehicle Number:-  YJTY
+Customer's No of Liters  :-  200
+Pump number              :-- 3  Customer:- 4
+Customer First Name      :-  TYJ
+Customer Last Name       :-  YJ
+Customer's Vehicle Number:-  3
+Customer's No of Liters  :-  300
+Pump number              :-- 3  Customer:- 5
+Customer First Name      :-  TYJ
+Customer Last Name       :-  YTJ
+Customer's Vehicle Number:-  YJ
+Customer's No of Liters  :-  200
+Pump number              :-- 3  Customer:- 6
+Customer First Name      :-  YRHJ
+Customer Last Name       :-  ERT
+Customer's Vehicle Number:-  WT
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 1
+Customer First Name      :-  TEHT
+Customer Last Name       :-  WET
+Customer's Vehicle Number:-  WT
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 2
+Customer First Name      :-  ERTG
+Customer Last Name       :-  TR
+Customer's Vehicle Number:-  YJ
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 3
+Customer First Name      :-  TYJ
+Customer Last Name       :-  RY
+Customer's Vehicle Number:-  RY
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 4
+Customer First Name      :-  RYJ
+Customer Last Name       :-  RY
+Customer's Vehicle Number:-  RTH
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 5
+Customer First Name      :-  RTH
+Customer Last Name       :-  TR
+Customer's Vehicle Number:-  TR
+Customer's No of Liters  :-  200
+Pump number              :-- 4  Customer:- 6
+Customer First Name      :-  TH
+Customer Last Name       :-  TEY
+Customer's Vehicle Number:-  S
+Customer's No of Liters  :-  200
+Pump number              :-- 5  Customer:- 1
+Customer First Name      :-  RTH
+Customer Last Name       :-  TH
+Customer's Vehicle Number:-  ET
+Customer's No of Liters  :-  200
+Pump number              :-- 5  Customer:- 2
+Customer First Name      :-  TH
+Customer Last Name       :-  ERTGF
+Customer's Vehicle Number:-  20
+Customer's No of Liters  :-  200
+Pump number              :-- 5  Customer:- 3
+Customer First Name      :-  ER
+Customer Last Name       :-  SD
+Customer's Vehicle Number:-  GD
+Customer's No of Liters  :-  200
+Pump number              :-- 5  Customer:- 4
+Customer First Name      :-  T
+Customer Last Name       :-  YJY
+Customer's Vehicle Number:-  YTJ
+Customer's No of Liters  :-  20
+Pump number              :-- 5  Customer:- 5
+Customer First Name      :-  YJ
+Customer Last Name       :-  RYHR
+Customer's Vehicle Number:-  RYH
+Customer's No of Liters  :-  200
+Pump number              :-- 5  Customer:- 6
+Customer First Name      :-  YRH
+Customer Last Name       :-  RTHRT
+Customer's Vehicle Number:-  DGE
+Customer's No of Liters  :-  20

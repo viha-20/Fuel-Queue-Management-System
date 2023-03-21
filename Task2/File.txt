@@ -1,0 +1,150 @@
+Pump number            :-- 1  Customer:- 1
+Customer First Name    :-  VIHANGI
+Customer Last Name     :-  JAYASEKARA
+Customer Vehicle Number:-  21
+Customer No of Liters  :-  200
+Pump number            :-- 1  Customer:- 2
+Customer First Name    :-  LIVINI
+Customer Last Name     :-  WIJERATHNA
+Customer Vehicle Number:-  21
+Customer No of Liters  :-  230
+Pump number            :-- 1  Customer:- 3
+Customer First Name    :-  THATUSHI
+Customer Last Name     :-  PRAMODA
+Customer Vehicle Number:-  21
+Customer No of Liters  :-  500
+Pump number            :-- 1  Customer:- 4
+Customer First Name    :-  EMMA
+Customer Last Name     :-  WATSON
+Customer Vehicle Number:-  23
+Customer No of Liters  :-  400
+Pump number            :-- 1  Customer:- 5
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 1  Customer:- 6
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 2  Customer:- 1
+Customer First Name    :-  ARIANA
+Customer Last Name     :-  GRANDE
+Customer Vehicle Number:-  54
+Customer No of Liters  :-  540
+Pump number            :-- 2  Customer:- 2
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 2  Customer:- 3
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 2  Customer:- 4
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 2  Customer:- 5
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 2  Customer:- 6
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 3  Customer:- 1
+Customer First Name    :-  MICHEAL
+Customer Last Name     :-  JACKSON
+Customer Vehicle Number:-  50
+Customer No of Liters  :-  400
+Pump number            :-- 3  Customer:- 2
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 3  Customer:- 3
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 3  Customer:- 4
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 3  Customer:- 5
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 3  Customer:- 6
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 4  Customer:- 1
+Customer First Name    :-  PETER
+Customer Last Name     :-  PARKER
+Customer Vehicle Number:-  40
+Customer No of Liters  :-  500
+Pump number            :-- 4  Customer:- 2
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 4  Customer:- 3
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 4  Customer:- 4
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 4  Customer:- 5
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 4  Customer:- 6
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 5  Customer:- 1
+Customer First Name    :-  SELENA
+Customer Last Name     :-  GOMEZ
+Customer Vehicle Number:-  40
+Customer No of Liters  :-  300
+Pump number            :-- 5  Customer:- 2
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 5  Customer:- 3
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 5  Customer:- 4
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 5  Customer:- 5
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
+Pump number            :-- 5  Customer:- 6
+Customer First Name    :-  Empty
+Customer Last Name     :-  Empty
+Customer Vehicle Number:-  Empty
+Customer No of Liters  :-  0
